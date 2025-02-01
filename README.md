@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="left">
+<br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, my name is David & Welcome to my repo!<br>
+</h2>
 
 <!--
 **Adolfo-David-Romero/Adolfo-David-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
