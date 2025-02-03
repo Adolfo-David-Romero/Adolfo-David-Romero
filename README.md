@@ -15,6 +15,8 @@
     <!--Contact + Socials Badges-->
     <a href="https://www.linkedin.com/in/Adolfo-David-Romero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Adolfo_David_Romero-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="mailto:a.davidromero@icloud.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"></a>
+        <a href="https://dev.to/adolfo-david-romero" target="_blank"><img src="https://img.shields.io/badge/-DEV.to-white?logo=dev.to&logoColor=black" alt="DEV.to Badge"></a>
+        <a href="https://stackoverflow.com/users/29489473/david" target="_blank"><img src="https://img.shields.io/badge/-Stack_Overflow-F58025?logo=stackoverflow&logoColor=black" alt="DEV.to Badge"></a>
     <a href="https://open.spotify.com/user/dankhill_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white" alt="Spotify Badge"></a>
     <a href="https://www.discogs.com/user/MangoMero" target="_blank"><img src="https://img.shields.io/badge/Discogs-white?logo=discogs&logoColor=black" alt="Discogs Badge"></a>
     <a href="https://discordapp.com/users/o621081720396972052" target="_blank"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=black" alt="Discord Badge"></a>
