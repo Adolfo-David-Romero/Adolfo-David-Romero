@@ -29,12 +29,20 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 <br>Outside of coding, I'm a multi-instrumentalist musician with a love for all kinds of music — you’ll probably find me in line for upcoming concerts (because the front row is always worth it!). I also enjoy diving into literature and sci-fi/fantasy books, so if you have any great recommendations, send them my way! 🙌📚</p>
 <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/interstellar-5555.gif"></details>
 
-<h3><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-retro-windows-start.gif" width="40"> Recent Activity</h3>
+<h3><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> Recent Activity</h3>
 
+<details open>
+  <summary>:zap: Recent GitHub Activity</summary>
+    
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/issues/1) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
 <!--END_SECTION:activity-->
+    
+</details>
 
+<details>
+  <summary>🎼 Spotify Activity</summary>
+</details>
 
 <h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My Skills</h2>
 
