@@ -45,6 +45,7 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 1. ❗ Opened issue [#1](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/issues/1) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
 <!--END_SECTION:activity-->
 
+</details>
 
 <h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My Skills</h2>
 
