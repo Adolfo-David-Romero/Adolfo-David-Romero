@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="100">
+    <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/pixel-desktop.gif" width="250">
     <br>
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/thinky-skeleton.gif" width="90">
     Hi, My Name Is <i>David</i> & Welcome To My Repo!
@@ -29,7 +29,12 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 <br>Outside of coding, I'm a multi-instrumentalist musician with a love for all kinds of music — you’ll probably find me in line for upcoming concerts (because the front row is always worth it!). I also enjoy diving into literature and sci-fi/fantasy books, so if you have any great recommendations, send them my way! 🙌📚</p>
 <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/interstellar-5555.gif"></details>
 
-<h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/pixel-desktop.gif" width="40">My Skills</h2>
+<h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My Skills</h2>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -70,10 +75,4 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?style=flat-square&logo=Arduino)
 
-<h2>My stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&hide_progress=true&theme=radical)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical) 
-
-<h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2>
+<h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My stats</h2>
