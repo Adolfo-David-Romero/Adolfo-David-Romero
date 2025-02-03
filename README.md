@@ -31,6 +31,8 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 
 <h3><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> Recent Activity</h3>
 
+[![Spotify](https://novatorem-adolfo-david-romeros-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dankhill_)
+
 <details open>
   <summary>:zap: Recent GitHub Activity</summary>
     
