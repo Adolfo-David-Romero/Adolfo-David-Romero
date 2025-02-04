@@ -2,7 +2,7 @@
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/pixel-desktop.gif" width="250">
     <br>
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/thinky-skeleton.gif" width="90">
-    Hi, My Name Is <i>David</i> & Welcome To My Repo!
+    Nice to meet you, I'm <i>David</i>.
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/thinky-skeleton.gif" width="90">
 </h1>
 
