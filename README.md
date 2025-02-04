@@ -44,8 +44,7 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
   <summary>:zap: GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/issues/1) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
-<!--END_SECTION:activity-->
+
 
 </details>
 
