@@ -117,9 +117,9 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake.svg" />
-</picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- <h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2> -->
