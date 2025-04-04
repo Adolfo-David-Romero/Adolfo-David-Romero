@@ -2,7 +2,9 @@
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/pixel-desktop.gif" width="250">
     <br>
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/thinky-skeleton.gif" width="90">
-    Nice to meet you, I'm <i>David</i>.
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+i'm+David+....;Nice+to+meet+you👋;I+CODE!&center=true&size=30">
+    </a>
     <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/thinky-skeleton.gif" width="90">
 </h1>
 
@@ -40,13 +42,12 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
   
 </details>
 
-<details open>
+<details close>
   <summary>:zap: GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/Adolfo-David-Romero/ARchive/issues/1) in [Adolfo-David-Romero/ARchive](https://github.com/Adolfo-David-Romero/ARchive)
 <!--END_SECTION:activity-->
-
 
 </details>
 
@@ -108,11 +109,12 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 <!--Stats-->
 <h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&hide_progress=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=adolfo-david-romero&theme=onedark&row=1)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&layout=compact&hide_progress=false&theme=radical&card_width=400)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=adolfo-david-romero&theme=rouge-dark&bg_color=20232a&hide_border=false)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adolfo-david-romero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake-dark.svg" />
