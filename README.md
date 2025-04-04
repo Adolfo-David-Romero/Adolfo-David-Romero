@@ -105,11 +105,19 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
           
           
 
-
+<!--Stats-->
 <h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&hide_progress=true&theme=radical)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical) 
 
-<h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=adolfo-david-romero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adolfo-david-romero/PigeonD/output/github-snake.svg" />
+</picture> 
+
+<!-- <h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2> -->
