@@ -115,5 +115,19 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&layout=compact&hide_progress=false&theme=radical&card_width=400)
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=adolfo-david-romero&theme=rouge-dark&bg_color=20232a&hide_border=false)
 
-![snake](https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!-- <h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2> -->
