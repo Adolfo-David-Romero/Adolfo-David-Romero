@@ -53,7 +53,7 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 
 <h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My Skills</h2>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<!--![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
@@ -94,13 +94,24 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 <br>
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?style=flat-square&logo=Arduino)
-<br>
-<!--IDE-->
+<br>-->
+![Devops](https://skillicons.dev/icons?i=git,github,bitbucket,docker)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-           width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
+![Mobile](https://skillicons.dev/icons?i=swift,kotlin,react,flutter,dotnet)
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs)
+![Web](https://skillicons.dev/icons?i=js,ts,html,css)
+
+![Frameworks](https://skillicons.dev/icons?i=jquery,bootstrap,nodejs,mysql,mongodb,postgres)
+![libraries](https://skillicons.dev/icons?i=tensorflow)
+
+![cloud](https://skillicons.dev/icons?i=gcp,aws,firebase,azure)
+
+![OS/microcontrollers](https://skillicons.dev/icons?i=apple,linux,windows,raspberrypi,arduino)
+
+<!--IDE-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="50"/>![IDE](https://skillicons.dev/icons?i=androidstudio,clion,idea,matlab,rider,visualstudio,vscode,webstorm,sublime,figma)
+
+
           
           
           
@@ -108,14 +119,6 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 
 <!--Stats-->
 <h2><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/retro-laptop.gif" width="40"> My stats</h2>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=adolfo-david-romero&theme=onedark&row=1)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&layout=compact&hide_progress=false&theme=radical&card_width=400)
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=adolfo-david-romero&theme=rouge-dark&bg_color=20232a&hide_border=false)
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -130,4 +133,14 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
     src="https://raw.githubusercontent.com/adolfo-david-romero/adolfo-david-romero/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<!-- <h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2> -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=adolfo-david-romero&theme=onedark&row=1)
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical&card_width=400" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&layout=compact&hide_progress=false&theme=radical&card_width=400" />
+</a>
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=adolfo-david-romero&theme=rouge-dark&bg_color=20232a&hide_border=false)
+<h2 align="center"><img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero/blob/main/assets/trippy-lisa.gif"></h2>
