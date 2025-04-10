@@ -101,7 +101,7 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 ![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs)
 ![Web](https://skillicons.dev/icons?i=js,ts,html,css)
 
-![Frameworks](https://skillicons.dev/icons?i=jquery,bootstrap,nodejs,mysql,mongodb,postgres)
+![Frameworks](https://skillicons.dev/icons?i=graphql,jquery,bootstrap,nodejs,mysql,mongodb,postgres)
 ![libraries](https://skillicons.dev/icons?i=tensorflow)
 
 ![cloud](https://skillicons.dev/icons?i=gcp,aws,firebase,azure)
