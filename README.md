@@ -98,7 +98,7 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 ![Devops](https://skillicons.dev/icons?i=git,github,bitbucket,docker)
 
 ![Mobile](https://skillicons.dev/icons?i=swift,kotlin,react,flutter,dotnet)
-![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs)
+![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,cs)
 ![Web](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ![Frameworks](https://skillicons.dev/icons?i=graphql,jquery,bootstrap,nodejs,mysql,mongodb,postgres)
