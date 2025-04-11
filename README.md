@@ -136,10 +136,10 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=adolfo-david-romero&theme=onedark&row=1)
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats-adolfo-david-romeros-projects.vercel.app/api?username=Adolfo-David-Romero&show_icons=true&theme=radical&card_width=400" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfo-david-romero&layout=compact&hide_progress=false&theme=radical&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats-adolfo-david-romeros-projects.vercel.app/api/top-langs/?username=adolfo-david-romero&layout=compact&hide_progress=false&theme=radical&card_width=400" />
 </a>
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=adolfo-david-romero&theme=rouge-dark&bg_color=20232a&hide_border=false)
