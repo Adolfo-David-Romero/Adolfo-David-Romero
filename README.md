@@ -48,8 +48,8 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
   <summary>:zap: GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/pull/2) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
-2. 💪 Opened PR [#2](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/pull/2) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
+1. 🎉 Merged PR [#3](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/pull/3) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
+2. 💪 Opened PR [#3](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/pull/3) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
 <!--END_SECTION:activity-->
 
 </details>
