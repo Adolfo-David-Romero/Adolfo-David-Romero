@@ -48,8 +48,8 @@ Hi friends! <img src="https://github.com/Adolfo-David-Romero/Adolfo-David-Romero
   <summary>:zap: GitHub Activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/pull/3) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
-2. 💪 Opened PR [#3](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero/pull/3) in [Adolfo-David-Romero/AdolfoDavidRomero](https://github.com/Adolfo-David-Romero/AdolfoDavidRomero)
+1. 🔒 Closed issue [#94](https://github.com/KevinChaves65/VenueMapToronto/issues/94) in [KevinChaves65/VenueMapToronto](https://github.com/KevinChaves65/VenueMapToronto)
+2. 🎉 Merged PR [#95](https://github.com/KevinChaves65/VenueMapToronto/pull/95) in [KevinChaves65/VenueMapToronto](https://github.com/KevinChaves65/VenueMapToronto)
 <!--END_SECTION:activity-->
 
 </details>
